@@ -1,3 +1,7 @@
 this is a git test
 hahadengyifenghaha
-dengyifeng & simple
+<<<<<<< HEAD
+dengyifeng and simple
+
+
+
